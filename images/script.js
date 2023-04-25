@@ -8,13 +8,13 @@ const users = [
         name: 'NATHALIA APARECIDA',
         role: 'BRAVA',
         feedback: '“ Fase Faminta " Está seria a pior fase dessa espécie de Nathalia,Nathalia por si só já é uma pessoa Raivosa e Brava,e aqui vemos a minha fera de 1,40 m zangada por motivos de estômago vazio.',
-        image: '/images/image-brava.png'
+        image: 'images/image-brava.png'
     },
     {
         name: 'NATHALIA APARECIDA',
         role: 'FELIZ',
         feedback: '“ Fase Feliz " Está sem sobra de duvidas é a melhor versão da minha fera de unhas e dentes, nota-se que a felicidade em seu olhar a cada mordinha em sua presa realça um sabor de vitória. TE AMO.',
-        image: '/images/image-feliz.png'
+        image: 'images/image-feliz.png'
     }
 ]
 
